@@ -19,5 +19,5 @@ This repository contains Jupyter Notebook files related to the Air Quality Index
 1. Clone this repository:
    ```bash
    git clone <repository-URL>
-## Exlore Streamlit dashboard to get more detailed information
+## Explore Streamlit dashboard to get more detailed information
 https://huggingface.co/spaces/Clone77/AQI_Analysis
